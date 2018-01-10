@@ -2,5 +2,15 @@
 
 This repository contains two files for SWE 582 ML class Fall2017.
 
-Titanic: kernel for https://www.kaggle.com/c/titanic
-Retail: kernel for https://www.kaggle.com/manjeetsingh/retaildataset
+1- Titanic: 
+
+TeamName: Small
+Score: 0.79904
+
+
+
+2- Retail:
+https://www.kaggle.com/manjeetsingh/retaildataset
+
+file: Retail.ipynb
+
